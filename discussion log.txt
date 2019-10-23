@@ -1,0 +1,24 @@
+Christian Shadis
+CS-242 Project 3 Discussion Log
+
+Progress: expected total time 6 hours
+Preliminary planning - 10/20/19 - 30 mins
+Coding 10/23/19 - 4 hours
+Total: 4:30
+
+Challenges: 
+-trying to figure out how to code the conditions for whether the array needs to be reallocated.
+-Writing the iterator method
+
+
+Collaborations:
+-workshopped some ideas with Sebastian Serafin
+
+References:
+-textbook
+-Java oracle documentation
+-professor Mahadev
+
+What I learned:
+-how to write the iterator class
+-how to use mod to traverse a circular array
