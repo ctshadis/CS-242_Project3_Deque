@@ -4,7 +4,8 @@ CS-242 Project 3 Discussion Log
 Progress: expected total time 6 hours
 Preliminary planning - 10/20/19 - 30 mins
 Coding 10/23/19 - 4 hours
-Total: 4:30
+Quick edit to fix logic on size check - 20 mins
+Total: 4:50
 
 Challenges: 
 -trying to figure out how to code the conditions for whether the array needs to be reallocated.
